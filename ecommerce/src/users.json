@@ -1,0 +1,10 @@
+[
+    {
+      "email": "admin@correo.com",
+      "password": "123456"
+    },
+    {
+      "email": "user@correo.com",
+      "password": "123456"
+    }
+  ]
